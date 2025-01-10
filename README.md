@@ -30,15 +30,3 @@ Este é um projeto de uma calculadora simples desenvolvida em React Native.
    npx react-native run-ios
    ```
 
----
-
-## **:computer: Requisitos**
-
-- **Node.js**
-- **React Native CLI**
-- **Emulador ou dispositivo físico para execução**
-
----
-
-### **Feito com :heart: por Samuel**
-
